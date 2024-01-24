@@ -106,7 +106,7 @@ const MainPage = () => {
             </div>
 
             <div className='flex ml-52'>
-                <button onClick= {handleSeeListButton} className="bg-violet-700 mt-10 rounded-md  px-auto p-3  border-2 border-slate-950">See List</button>
+                <button onClick= {handleSeeListButton} className="bg-violet-700 mt-10 rounded-md  px-auto p-3  border-2 border-slate-950">  See List  </button>
                 <button onClick={handleCompletedButton} className="bg-violet-700 mt-10 rounded-md  px-auto ml-4 p-3 border-2 border-slate-950">Completed</button>
             </div>
 
